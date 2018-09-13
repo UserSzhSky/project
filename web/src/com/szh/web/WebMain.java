@@ -9,6 +9,5 @@ public class WebMain {
 		Endpoint.publish("172.20.10.3/vashon", face);
 		System.out.println("Web Service暴露成功！！");
 		System.out.println("");
-		
 	}
 }
